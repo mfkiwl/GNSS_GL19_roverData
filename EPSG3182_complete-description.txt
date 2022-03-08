@@ -1,0 +1,38 @@
+Coordinate System 
+-----------------  
+Name: Greenland/GR96
+Datum: Greenland 96
+Zone: UTM 22N
+Geoid: GGeoid16 (Greenland)
+Vertical datum: NA
+Calibrated site: NA
+
+https://epsg.io/3182
+
+EPSG:3182
+
+Attributes
+
+Unit: metre
+
+Geodetic CRS: GR96
+
+Datum: Greenland 1996
+
+Ellipsoid: GRS 1980
+
+Prime meridian: Greenwich
+
+Data source: OGP
+
+Information source: Kort & Matrikelstyrelsen (KMS), Copenhagen.
+
+Revision date: 2006-07-30
+
+Scope: Large and medium scale topographic mapping and engineering survey.
+
+Method: Geocentric translations (geog2D domain)
+
+Area of use: Greenland - between 54°W and 48°W, onshore and offshore south of 84°N.
+
+Coordinate system: Cartesian 2D CS. Axes: easting, northing (E,N). Orientations: east, north. UoM: m.

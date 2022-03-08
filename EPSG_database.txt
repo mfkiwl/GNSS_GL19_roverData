@@ -1,0 +1,15 @@
+TBC_Name	Name	CRS	EPSG	Datum	Zone	Ellipsoid	Alias	URL_1	URL_2
+Switzerland/CH1903	CH1903+ / LV95	CH1903+	2056	CH 1903+	CH 1903+ (LV 95)	Bessel 1841	Swiss CH1903+ / LV95	https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 18N	GR96	3178	Greenland 96	UTM 18N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 19N	GR96	3179	Greenland 96	UTM 19N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 20N	GR96	3180	Greenland 96	UTM 20N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 21N	GR96	3181	Greenland 96	UTM 21N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 22N	GR96	3182	Greenland 96	UTM 22N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 23N	GR96	3183	Greenland 96	UTM 23N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 24N	GR96	3184	Greenland 96	UTM 24N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 25N	GR96	3185	Greenland 96	UTM 25N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 26N	GR96	3186	Greenland 96	UTM 26N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 27N	GR96	3187	Greenland 96	UTM 27N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 28N	GR96	3188	Greenland 96	UTM 28N	GRS 1980		https://epsg.org	https://epsg.io
+Greenland/GR96	GR96 / UTM zone 29N	GR96	3189	Greenland 96	UTM 29N	GRS 1980		https://epsg.org	https://epsg.io
+Default	WGS 84	WGS 84	4326	WGS 1984	Default	WGS 84	"WGS84; World Geodetic System 1984, used in GPS"	https://epsg.org	https://epsg.io
